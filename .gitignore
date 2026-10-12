@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+!frontend/env/.env
+*.local
+*.log
+project.private.config.json
+backend/data/
+artifacts/
+frontend/.upstream-git/
+frontend/template-reference/
+frontend/src/types/
+frontend/src/pages.json
+frontend/src/manifest.json
+frontend/*.tsbuildinfo

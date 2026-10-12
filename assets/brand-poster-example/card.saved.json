@@ -1,0 +1,134 @@
+{
+  "name": "林予安",
+  "title": "口腔种植与 AI 增长顾问",
+  "company": "瑞植医疗 · RUIZHI",
+  "phone": "010-00000000",
+  "email": "hello@example.com",
+  "wechat": "",
+  "location": "北京 · 全国合作",
+  "bio": "瑞植医疗品牌海报名片演示。连接口腔种植产品、渠道与服务，围绕材料集成、品牌支持和经营赋能，呈现完整的合作价值。人物、品牌及联系方式均为示例。",
+  "avatar": "",
+  "website": "",
+  "tags": [
+    "种植材料集成",
+    "种植品牌服务",
+    "门诊团队赋能",
+    "AI 经营增长"
+  ],
+  "theme": "forest",
+  "published": true,
+  "appearance": {
+    "template": "poster",
+    "layout": "poster",
+    "coverImage": "/api/media/22a769d3bd3935d1eadb1b95",
+    "posterPortraitScale": 1,
+    "posterPortraitX": 0,
+    "posterFooter": "链接品牌、产品、渠道与增长",
+    "accentColor": "#168e91",
+    "coverLabel": "DENTAL & AI GROWTH",
+    "coverTitle": "口腔种植 ×\nAI 增长赋能",
+    "wordmark": "RUIZHI · DENTAL & GROWTH",
+    "avatarShape": "square",
+    "decoration": true,
+    "hiddenFields": [
+      "location"
+    ]
+  },
+  "pages": [
+    {
+      "id": "main",
+      "title": "品牌海报",
+      "columns": 1,
+      "icon": "company",
+      "presentation": "cards"
+    }
+  ],
+  "sections": [
+    {
+      "id": "poster-business",
+      "title": "主营业务",
+      "content": "",
+      "visible": true,
+      "showTitle": true,
+      "columnSpan": 2,
+      "type": "card",
+      "pageId": "main",
+      "blocks": [
+        {
+          "id": "business-materials",
+          "title": "瑞植口腔\n材料供应中心",
+          "content": "种植材料集成\n一站式配套服务",
+          "visible": true,
+          "showTitle": true,
+          "images": [
+            "/api/media/be75255cfe380a8e6b04b6cf"
+          ],
+          "imageLayout": "stack",
+          "type": "image"
+        },
+        {
+          "id": "business-implant",
+          "title": "瑞植种植\n品牌事业部",
+          "content": "种植产品体系\n品牌与技术支持",
+          "visible": true,
+          "showTitle": true,
+          "images": [
+            "/api/media/68e08156bf9a1468ed4e535e"
+          ],
+          "imageLayout": "stack",
+          "type": "image"
+        },
+        {
+          "id": "business-channel",
+          "title": "瑞植医疗\n渠道合作中心",
+          "content": "种植渠道合作\n区域运营服务",
+          "visible": true,
+          "showTitle": true,
+          "images": [
+            "/api/media/ab2cb379786d5f1958286f95"
+          ],
+          "imageLayout": "stack",
+          "type": "image"
+        }
+      ],
+      "cardLayout": "showcase"
+    },
+    {
+      "id": "poster-services",
+      "title": "AI 咨询与增长赋能",
+      "content": "",
+      "visible": true,
+      "showTitle": true,
+      "columnSpan": 2,
+      "type": "card",
+      "pageId": "main",
+      "blocks": [
+        {
+          "id": "service-consulting",
+          "title": "门诊咨询师赋能",
+          "content": "咨询沟通与团队训练\n提升专业表达与服务体验",
+          "visible": true,
+          "showTitle": true,
+          "type": "text"
+        },
+        {
+          "id": "service-growth",
+          "title": "种植项目增长支持",
+          "content": "从产品到服务方案\n支持项目运营与渠道增长",
+          "visible": true,
+          "showTitle": true,
+          "type": "text"
+        },
+        {
+          "id": "service-ai",
+          "title": "AI 训练与经营提升",
+          "content": "咨询场景模拟与复盘\n用 AI 辅助团队能力建设",
+          "visible": true,
+          "showTitle": true,
+          "type": "text"
+        }
+      ],
+      "cardLayout": "showcase"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "digital-card",
+  "private": true,
+  "scripts": {
+    "dev:api": "npm --prefix backend run dev",
+    "dev:web": "pnpm --dir frontend dev:h5",
+    "dev:mp": "pnpm --dir frontend dev:mp",
+    "test:api": "npm --prefix backend test",
+    "test:cloud": "node --test cloudfunctions/tests/*.test.mjs",
+    "cloud:prepare": "npm --prefix cloudfunctions/digitalCard ci",
+    "cloud:setup": "node --env-file-if-exists=backend/.env backend/scripts/cloud-setup.mjs",
+    "cloud:migrate": "node --env-file-if-exists=backend/.env backend/scripts/migrate-cloud.mjs",
+    "cloud:membership": "node --env-file-if-exists=backend/.env backend/scripts/set-membership.mjs",
+    "build:web": "pnpm --dir frontend build:h5",
+    "build:mp": "pnpm --dir frontend build:mp",
+    "test:e2e": "playwright test",
+    "test:e2e:cloud": "playwright test -c playwright.cloud.config.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

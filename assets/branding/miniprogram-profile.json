@@ -1,0 +1,11 @@
+{
+  "name": "一面数字名片",
+  "slogan": "一面之缘，连接无限可能。",
+  "introduction": "一面是一款可自由编辑的数字名片工具。支持多种风格模板、品牌海报及图文视频编排，展示个人资料、企业业务与服务。轻松分享、收藏名片，保存联系人，让每一次相遇都有新的可能。",
+  "detailedIntroduction": "一面数字名片，帮助个人与企业把自我介绍变成一张可分享、可互动的线上名片。选择喜欢的模板，自由组合文字、图片、视频与链接，展示个人资料、企业介绍、作品、产品和服务；也可打造人物主页或品牌海报名片。通过分享与扫码交换名片，收藏联系人，拨打电话或保存通讯录。访客可以留下合作意向，留言仅名片主人可查看。",
+  "icon": "miniprogram-icon-v1.png",
+  "generation": {
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: logo-brand. Create one finished square app icon for a Chinese WeChat mini program named 一面, a digital business card maker and contact organizer. This is the actual app icon asset, not a mockup or presentation sheet. Design a bold, polished, memorable symbol of two overlapping ivory-white business cards, one rear card rotated slightly counterclockwise and the front card almost upright with softly rounded corners. Front card contains a simple large circular avatar symbol and exactly two short, thick, rounded information lines below; these are abstract shapes, no text. The two cards together should subtly suggest exchanging cards and making a human connection. The entire card symbol centered, fills about 65 percent of the square, comfortably readable at 48 pixels. Warm burnt-orange terracotta background with a restrained orange gradient, matching brand color #c4512d, luminous warm upper-left lighting, a subtle dark forest-green circular connection accent near the front card lower right. Premium tactile matte finish, shallow dimensional layering with soft restrained shadows, crisp clean edges, elegant and approachable, no glossy plastic, no exaggerated bevels. Full-bleed opaque square background to all four corners, do not pre-round the outer canvas, no external border. Square 1:1 composition, 1024 by 1024 preferred. No letters, Chinese characters, numbers, QR codes, watermark, captions, scenery, phone frame, app store mockup, or additional icons."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "digital-card-cloud-function",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "4.0.2",
+    "zod": "^4.1.0",
+    "qrcode": "^1.5.4",
+    "file-type": "^20.5.0"
+  }
+}

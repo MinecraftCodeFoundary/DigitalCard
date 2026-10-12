@@ -1,0 +1,7 @@
+packages:
+  - .
+overrides:
+  unconfig: 7.3.2
+allowBuilds:
+  esbuild: true
+  vue-demi: true

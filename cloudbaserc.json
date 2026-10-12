@@ -1,0 +1,20 @@
+{
+  "envId": "cloud1-d5g9aguo13adf0f36",
+  "functionRoot": "cloudfunctions",
+  "functions": [
+    {
+      "name": "digitalCard",
+      "type": "Event",
+      "runtime": "Nodejs20.19",
+      "handler": "index.main",
+      "timeout": 60,
+      "memorySize": 512,
+      "installDependency": true,
+      "envVariables": {
+        "WECHAT_APP_ID": "wx0ea087f9c508f86f",
+        "WECHAT_ENV_VERSION": "develop",
+        "PUBLIC_WEB_URL": "http://localhost:9000"
+      }
+    }
+  ]
+}

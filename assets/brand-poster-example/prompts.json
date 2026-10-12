@@ -1,0 +1,26 @@
+{
+  "generator": "Built-in image_gen",
+  "portraitEdit": "Edit this fictional businessman's portrait into a clean professional transparent cutout asset for a dental brand poster. Preserve his facial identity, grey double-breasted suit, white shirt, burgundy tie, natural studio photographic quality and pose with both hands fastening jacket. Crop the composition at the waist, immediately below the hands: NO legs or thighs, keep the whole head with small breathing space above and keep both elbows fully visible. Subject fills a vertical 3:4 frame, from head to waist. Remove ALL existing background and any dark glow or halo around the man; absolutely clear transparent alpha outside subject, crisp natural edges. No text, logos, watermark or shadows outside subject.",
+  "assets": [
+    {
+      "name": "portrait",
+      "transparent": true,
+      "prompt": "Create a photorealistic professional studio business portrait asset for an elegant Chinese dental industry brand poster. A fictional Chinese man aged about 36, natural handsome face, neatly styled short black hair, charcoal grey double-breasted tailored suit, crisp white shirt, burgundy tie. Confident warm neutral expression, looking directly at camera. Standing, both hands gently fastening jacket at waist, visible head to upper thighs; complete head and both elbows safely inside frame. Straight-on camera, high-end commercial photography, soft realistic lighting and fine fabric texture. Vertical 2:3 composition, subject fills most of frame. Fully isolated subject on genuinely transparent background, no backdrop, no shadows outside subject, no logo, no text, no border. Do not depict any existing real person."
+    },
+    {
+      "name": "business-materials",
+      "transparent": false,
+      "prompt": "Photorealistic premium dental implant materials product photograph, portrait 4:5 aspect ratio. A small elegant arrangement of silver titanium dental abutments, precision cylindrical components and a white ceramic implant fixture on a pale icy white-blue tabletop. Object cluster in lower two thirds, softly blurred cool grey studio background in upper third, gentle reflections, soft side lighting, refined medical equipment catalogue photography. White silver and subtle aqua color palette. No teeth or people, no text, no logos, no watermark, no border. Single standalone product photo."
+    },
+    {
+      "name": "business-implant",
+      "transparent": false,
+      "prompt": "Photorealistic premium dental implant product photograph, portrait 4:5 aspect ratio. One realistic titanium screw-shaped dental implant standing upright, sharp ridged silver dark grey metal, ceramic silver connector on top, clean small splash of crystal-clear water around its base. Product in lower two thirds, pale icy white-blue studio background, subtle depth of field and reflections, soft commercial lighting. Minimal refined medical equipment catalogue photograph. No text, no logos, no teeth or people, no watermark, no border. Single standalone product photo."
+    },
+    {
+      "name": "business-channel",
+      "transparent": false,
+      "prompt": "Photorealistic premium dental implant product photograph, portrait 4:5 aspect ratio. A realistic silver titanium dental implant screw lying horizontally on a pale white-blue reflective tabletop, angled gently diagonally toward viewer. A few blurred metal precision components in distant background. Main implant sharp detailed machined ridges in lower two thirds, ample softly blurred icy white-grey studio space in upper third. Soft high-end product catalogue lighting, silver and subtle aqua palette matching medical brand photography. No text, no logos, no teeth or people, no watermark, no border. Single standalone product photo."
+    }
+  ]
+}
